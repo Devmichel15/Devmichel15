@@ -4,39 +4,25 @@
 
 **Desenvolvedor Frontend | Estudante de Backend | Empreendedor 🇦🇴**
 
-Construo aplicações web e produtos digitais enquanto evoluo constantemente como desenvolvedor.
-
 </div>
 
 ---
 
 ## 🧰 Stack
 
-### Frontend
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,php,postgresql" />
 
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,postgresql" />
-</p>
-
-### Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,expo" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Devmichel15&show_icons=true&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Devmichel15&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devmichel15&layout=compact&theme=transparent&hide_border=true" />
 
@@ -44,18 +30,15 @@ Construo aplicações web e produtos digitais enquanto evoluo constantemente com
 
 ---
 
-## 🐍 Contribuições
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Devmichel15/Devmichel15/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<a href="https://github.com/Devmichel15">
+  <img src="https://img.shields.io/github/followers/Devmichel15?label=Seguidores&style=flat" />
+</a>
+
+<a href="https://github.com/Devmichel15?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Devmichel15?label=Estrelas&style=flat" />
+</a>
 
 </div>
 
----
-
-<div align="center">
-
-### 🚀 Sempre aprendendo. Sempre construindo.
-
-</div>
