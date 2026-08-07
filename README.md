@@ -1,16 +1,14 @@
-<div align="center">
+<div align="start">
 
-# 👋 Olá, eu sou o Michel César
+# Olá, eu sou o Michel César
 
 **Desenvolvedor Frontend | Estudante de Backend | Empreendedor 🇦🇴**
 
 </div>
 
----
-
 ## 🧰 Stack
 
-<div align="center">
+<div align="start">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,php,postgresql" />
 
